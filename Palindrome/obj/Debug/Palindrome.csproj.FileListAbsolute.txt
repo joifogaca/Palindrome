@@ -1,0 +1,6 @@
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
